@@ -3,6 +3,7 @@ package com.sdb.scratch;
 import java.util.*;
 import java.util.stream.Collectors;
 
+// from https://dzone.com/articles/convert-map-to-list-in-java-8?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava
 public class ConvertMapToList {
 	
     public static void main(String[] args) {
